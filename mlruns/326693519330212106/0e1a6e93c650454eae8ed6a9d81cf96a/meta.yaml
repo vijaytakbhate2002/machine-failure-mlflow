@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/ML%20Ops%20Workspace/4-mlflow/Mlflow%202/mlruns/326693519330212106/0e1a6e93c650454eae8ed6a9d81cf96a/artifacts
+deleted_time: 1721931993714
+end_time: 1721931849870
+entry_point_name: ''
+experiment_id: '326693519330212106'
+lifecycle_stage: deleted
+run_id: 0e1a6e93c650454eae8ed6a9d81cf96a
+run_name: Logistic Regrssion
+run_uuid: 0e1a6e93c650454eae8ed6a9d81cf96a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721931849806
+status: 4
+tags: []
+user_id: admin
